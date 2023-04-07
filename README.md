@@ -2,7 +2,7 @@
 
 A calculator project built with React.
 
-![Calculator Screenshot]('./src/assets/gifts/calculator-demo.gif')
+![Calculator Screenshot](/src/assets/gifts/calculator-demo.gif)
 
 ## Features
 
